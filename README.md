@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lynx1916
+- 👋 Hi, I’m Shakhab
 - ✨ I'm python developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
