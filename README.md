@@ -18,3 +18,4 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![ubuntu]([https://ubuntu.com/](https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png))
