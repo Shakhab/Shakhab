@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shakhab
+- 👋 Hi, I’m Shax
 - ✨ I'm python developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
