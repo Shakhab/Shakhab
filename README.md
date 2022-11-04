@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shax
+- 👋 Hi, I’m Bronislav
 - ✨ I'm python developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
