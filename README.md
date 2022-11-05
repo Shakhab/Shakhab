@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bronislav
+- 👋 Hi, I’m Semyon
 - ✨ I'm python developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
