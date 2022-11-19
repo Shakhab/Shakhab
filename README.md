@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shakhab
 - ✨ I'm python developer
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C++
 
 ## :computer: Technologies
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
