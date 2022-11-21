@@ -21,4 +21,4 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ##
-![](--------------------------------------------------https://tenor.com/ru/view/itachi-gif-26089255------------------------------------------------------)
+![](https://tenor.com/ru/view/itachi-gif-26089255)
