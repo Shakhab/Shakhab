@@ -21,6 +21,5 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <details>
-<summary>
 <div style='position:relative; padding-bottom:calc(100.00% + 44px)'><iframe src='https://gfycat.com/ifr/MinorIdealisticBumblebee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/minoridealisticbumblebee">via Gfycat</a></p>
-</summary>
+</details>
