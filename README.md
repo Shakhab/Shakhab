@@ -21,4 +21,4 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ##
-<img align="left" alt="" width="1000" src="https://media.tenor.com/eGVTh8vKAEAAAAAC/itachi.gif">
+<img align="left" alt="" width="1000" src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-20.gif">
