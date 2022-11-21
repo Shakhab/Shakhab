@@ -21,4 +21,4 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ##
-![screen-gif](https://i.gifer.com/79dn.gif)
+![](https://media.tenor.com/SMQHfyX1EDIAAAAM/sharingan.gif)
