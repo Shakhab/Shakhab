@@ -21,4 +21,4 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ##
-![](<div class="tenor-gif-embed" data-postid="26089255" data-share-method="host" data-aspect-ratio="2.01258" data-width="100%"><a href="https://tenor.com/view/itachi-gif-26089255">Itachi GIF</a>from <a href="https://tenor.com/search/itachi-gifs">Itachi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![](--------------------------------------------------https://tenor.com/ru/view/itachi-gif-26089255------------------------------------------------------)
