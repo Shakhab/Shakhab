@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Shakhab
 - ✨ I'm python developer
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
+- <div id="header" align="center">
+  <img src="https://i.gifer.com/7gRx.gif" width="100"/>
+</div>
 
 ## :computer: Technologies
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
