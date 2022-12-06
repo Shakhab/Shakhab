@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 <div id="header" align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shakhab&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  <img [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shakhab&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)/>
 </div>
 ## :computer: Technologies
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
