@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 <div id="header" align="right">
-  <img src="https://github.com/Shakhab/Shakhab/blob/main/7gRx.gif" height="200" width="500"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakhab)](https://git.io/streak-stats)
 </div>
 
 ## :computer: Technologies
