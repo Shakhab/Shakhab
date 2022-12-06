@@ -19,6 +19,4 @@
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-##
-<img align="left" alt="" width="1000" height="300" src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif">
-![github contribution grid snake animation](https://raw.githubusercontent.com/Shakhab/Shakhab/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Shakhab/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
