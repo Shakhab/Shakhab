@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F01034&multiline=true&width=1000&lines=👋+Hi+,+I’m+Shakhab)](https://git.io/typing-svg)
-- ✨ I'm python developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F01034&multiline=true&width=1000&lines=~+Hi,+I’m+Shakhab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F01034&multiline=true&width=1000&lines=~+I'm+python+developer)](https://git.io/typing-svg)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 ## :computer: Technologies
