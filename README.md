@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F01034&multiline=true&width=500&lines=~+Hi,+I’m+Shakhab)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F01034&multiline=true&width=500&lines=~+I'm+python+developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.comfont=Fira+Code&pause=100000&color=F01034&multiline=true&width=500&lines=~+I’m+interested+in+programming)](https://git.io/typing-svg)
+[![TypingSVG](https://readmetypingsvg.herokuapp.comfont=Fira+Code&pause=100000&color=F01034&multiline=true&width=500&lines=~+I’m+interested+in+programming)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=F01034&multiline=true&width=500&lines=~+I’m+currently+learning +python)](https://git.io/typing-svg)
 ## :computer: Technologies
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
