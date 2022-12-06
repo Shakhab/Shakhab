@@ -21,4 +21,5 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ##
 <img align="left" alt="" width="1000" height="300" src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif">
-![github contribution grid snake animation](https://raw.githubusercontent.com/shakhab/shakhab/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/shakhab/shakhab/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shakhab/shakhab/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shakhab/shakhab/output/github-contribution-grid-snake.svg#gh-light-mode-only)
