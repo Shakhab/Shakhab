@@ -2,8 +2,8 @@
 - ✨ I'm python developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-<div id="header" align="center">
-  <img src="https://github.com/Shakhab/Shakhab/blob/main/7gRx.gif" height="100" width="500"/>
+<div id="header" align="right">
+  <img src="https://github.com/Shakhab/Shakhab/blob/main/7gRx.gif" height="200" width="500"/>
 </div>
 
 ## :computer: Technologies
