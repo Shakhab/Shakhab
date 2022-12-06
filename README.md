@@ -2,7 +2,7 @@
 - ✨ I'm python developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-                                   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shakhab&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shakhab&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 ## :computer: Technologies
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
