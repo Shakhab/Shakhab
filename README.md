@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Shakhab
 - ✨ I'm python developer
-- <img src="https://i.gifer.com/7gRx.gif" width="100"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 
