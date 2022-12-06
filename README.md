@@ -20,6 +20,4 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 #
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhab)](https://github.com/shakhab/github-readme-stats)
-#
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Come+again)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
