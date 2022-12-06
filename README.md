@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shakhab
+- 👋 Hi, I’m Shakhab[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F01034&center=true&vCenter=true&multiline=true&width=1000&lines=Simple+is+better+than+complex)](https://git.io/typing-svg)
 - ✨ I'm python developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
