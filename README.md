@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 <div id="header" align="center">
-  <img src="https://github.com/Shakhab/Shakhab/blob/main/7gRx.gif" width="500"/>
+  <img src="https://github.com/Shakhab/Shakhab/blob/main/7gRx.gif" color=F01034 width="500"/>
 </div>
 
 ## :computer: Technologies
