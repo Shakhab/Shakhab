@@ -25,4 +25,4 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 #
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F01034&center=true&vCenter=true&multiline=true&width=1000&lines=Simple+is+better+than+complex)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F01034&center=true&vCenter=true&multiline=true&width=1000&lines=~+Simple+is+better+than+complex)](https://git.io/typing-svg)
